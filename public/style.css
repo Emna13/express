@@ -1,0 +1,27 @@
+li {
+    list-style: none;
+  }
+  .nav{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      font-weight: bolder;
+      font-size: x-large;
+      background-color: black;
+      color: white;
+      padding: 20px;
+      margin-top: 0%;
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+  .open{
+     margin-top: 15%;
+     background-color: red;
+     color: white;
+     text-align: center;
+     padding: 10px ;
+     margin-right: 250px;
+     margin-left: 250px;
+  }
